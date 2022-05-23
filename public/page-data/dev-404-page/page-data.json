@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---cache-dev-404-page-js",
+    "path": "/dev-404-page/",
+    "result": {"data":{"allSiteFunction":{"nodes":[]},"allSitePage":{"nodes":[{"path":"/about/"},{"path":"/b2b/"},{"path":"/cart/"},{"path":"/checkout/"},{"path":"/co-working/"},{"path":"/consultation/"},{"path":"/contact1/"},{"path":"/contact2/"},{"path":"/contact3/"},{"path":"/ecommerce/"},{"path":"/"},{"path":"/job-details/"},{"path":"/job-directory/"},{"path":"/job-openings/"},{"path":"/mobile-app/"},{"path":"/pricing1/"},{"path":"/pricing2/"},{"path":"/pricing3/"},{"path":"/product-details/"},{"path":"/product/"},{"path":"/saas-subscription/"},{"path":"/telemedicine/"},{"path":"/terms-conditions/"},{"path":"/video-conference/"},{"path":"/web-application/"},{"path":"/reset-pass/"},{"path":"/signin/"},{"path":"/signup/"}]}},"pageContext":{}},
+    "staticQueryHashes": []}
